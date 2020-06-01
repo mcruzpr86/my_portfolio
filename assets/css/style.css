@@ -15,7 +15,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: sans-serif;
 		vertical-align: baseline;
 	}
 
@@ -1641,7 +1641,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Taviraj", serif;
+		font-family: sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
